@@ -6,6 +6,7 @@
 ### Projects
 
 - [Grandbot](https://github.com/handeyeco/Grandbot): a DIY digital pet that's also a generative MIDI sequencer
+- [cc-bc](https://github.com/handeyeco/cc-bc): a site for finding Creative Commons music on Bandcamp
 - [databend](https://github.com/handeyeco/databend): a web app for breaking images with sound
 - [Hexagon](https://github.com/handeyeco/Hexagon): an experimental web-based synth
 - [Triangles](https://github.com/handeyeco/Triangle): an ephemeral drawing application
